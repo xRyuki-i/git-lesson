@@ -17,3 +17,7 @@ Git basic commands
 
 Git Research topics
     -git reset
+    -git fetch 
+    -git rebase
+    -git revert
+    -git merge
