@@ -1,1 +1,19 @@
-This is the first lesson.
+Git Install
+Git Configure
+
+Git Repository
+    -git create local repo(git init)
+    -git create remote repo (from web)
+    -git link local and remote repo (git remote add <alias> <git url>)
+
+Git basic commands
+    -git add (stage the working tree to be committed)
+    -git commit (reate snapshot of workin tree to be pushed to the remote repo)
+    -git push (push the commit to the remote repo)
+    -git pull (pull new code from the remote repo)
+    -git checkout (switch branch)
+        git checkout -b <branch name> (create new branch)
+        git checkout <branch name>
+
+Git Research topics
+    -git reset
